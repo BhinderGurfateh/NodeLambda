@@ -1,0 +1,16 @@
+{
+  "name": "NodeLambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "jsonstream": "^1.0.3"
+  }
+}
